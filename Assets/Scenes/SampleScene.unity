@@ -1389,7 +1389,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5646682390677192741, guid: a58eb4a60edd3bc49b8ed01f813379c6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 2.42
       objectReference: {fileID: 0}
     - target: {fileID: 5646682390677192741, guid: a58eb4a60edd3bc49b8ed01f813379c6, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1427,5 +1427,13 @@ PrefabInstance:
       propertyPath: animator
       value: 
       objectReference: {fileID: 2026070219}
+    - target: {fileID: 5646682390677192743, guid: a58eb4a60edd3bc49b8ed01f813379c6, type: 3}
+      propertyPath: movementSpeed
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5646682390677192745, guid: a58eb4a60edd3bc49b8ed01f813379c6, type: 3}
+      propertyPath: jumpForce
+      value: 7
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a58eb4a60edd3bc49b8ed01f813379c6, type: 3}
